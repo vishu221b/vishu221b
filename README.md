@@ -1,6 +1,6 @@
 ### Hey there!! 👋
 ### Welcome to my profile
-## Here are some things about me that might help you know me better
+### Here are some things about me that might help you know me better
 <!--
 **vishu221b/vishu221b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
