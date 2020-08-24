@@ -1,6 +1,6 @@
 ### Hey there!! 👋
-### Welcome to my profile
-### Here are some things about me that might help you know me better
+### Welcome to my profile 😋
+### Here are some things about me that might help you know me better :neckbeard:
 <!--
 **vishu221b/vishu221b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on enhacing my advanced Python concepts
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on open source python web frameworks like Django or Flask
-- 🤔 I’m looking for help with management, probably 😛 
+- 🤔 I’m looking for help with some management stuff, actually 😛
 - 💬 Ask me about Python, REST APIs, debugging
 - ⚡ Fun fact: fact Fun 😝  
 
