@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Fullstack Web technologies like Spring-Boot, JPA, Flask, NodeJS, React, Docker, Kubernetes, microservices
+- 🔭 I’m currently working on Fullstack Web technologies like Spring-Boot, Spring core, JPA, JDBC Templates, Flask, NodeJS, React, Docker, Kubernetes, microservices
 - 🌱 I’m currently learning Solidity and working on Smart Contracts aspiring to learn and do NFTs deployment end to end by myself by making use of smart contracts on remix.ethereum, ganache, moralis APIs etc.
 - 👯 I’m looking for relevant opportunities in Fintech space to enhance my skills as a Software developer (preferrably Blockchain developer :)) 
 - 🤔 I’m looking for help with nothing rn, actually 😛
 - 💬 Ask me about Python, Flask, Blockchain, NFTs, Smart Contracts, Java, JavaScript Spring-Boot, JPA, Hibernate, Node, Angular, React, REST APIs, debugging related to any of the forementioned technologies 
-- ⚡ Fun fact: The more attention you pay to the core of something, the more obvious for you it becomes from different perspectives ✌🏻😉  
+- ⚡ Fun fact: The more attention you pay to the core of something, the more obvious it becomes to you from different perspectives ✌🏻😉  
 
 
 <!--
