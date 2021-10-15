@@ -1,13 +1,18 @@
-### Hey there Beautiful Being!! 👋
-### Welcome to My Profile 😋
-### Here are some things about me that might help you know me better :neckbeard:
+### Hey there Gorgeous Being!! 👋
+### Thank you so much for visiting my Profile 😇
+### Here are some things about me that might help you to know me better 😁
 <!--
 **vishu221b/vishu221b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishu221b&show_icons=true&hide_title=false&hide=contribs,stars&include_all_commits=true&theme=blueberry&count_private=true" alt="Vishu's github stats"/>
+
 Here are some ideas to get you started:
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishu221b&show_icons=true&hide_title=false&hide=contribs,stars&include_all_commits=true&theme=blueberry&count_private=true" alt="Vishu's github stats"/>
+
 - 🔭 I’m currently working on Fullstack Web technologies like Spring-Boot, Spring core, JPA, JDBC Templates, Flask, NodeJS, React, Docker, Kubernetes, microservices
-- 🌱 I’m currently learning Solidity and working on Smart Contracts aspiring to learn and do NFTs deployment end to end by myself by making use of smart contracts on remix.ethereum, ganache, moralis APIs etc.
+- 🌱 I’m currently learning Solidity and working on Smart Contracts aspiring to learn and create and deploy NFTs end to end by myself. Tools being used are remix.ethereum, ganache, moralis APIs, Solidity, web3j etc.
 - 👯 I’m looking for relevant opportunities in Fintech space to enhance my skills as a Software developer (preferrably Blockchain developer :)) 
 - 🤔 I’m looking for help with nothing rn, actually 😛
 - 💬 Ask me about Python, Flask, Blockchain, NFTs, Smart Contracts, Java, JavaScript Spring-Boot, JPA, Hibernate, Node, Angular, React, REST APIs, debugging related to any of the forementioned technologies 
