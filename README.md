@@ -1,8 +1,8 @@
-<img align="right" src="hhttps://github-readme-stats.vercel.app/api?username=vishu221b&show_icons=true&theme=radical" alt="Vishu's Public Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishu221b&show_icons=true&theme=radical" alt="Vishu's Public Github Stats"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishu221b&v=2" alt="Vishu221's WakaTime Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishu221b&v=2" alt="Vishu221's WakaTime Stats"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishu221b&hide_progress=false&layout=donut" alt="Vishu221's Top Langs Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishu221b&hide_progress=false&layout=donut" alt="Vishu221's Top Langs Stats"/>
 
 
 - 🔭 I’ve recently completed Masters in IT from QUT, Australia
