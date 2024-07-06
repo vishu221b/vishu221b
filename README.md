@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=vishu221b&show_icons=true&theme=radical" alt="Vishu's Public Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishu221b&show_icons=true&theme=radical&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Vishu's Public Github Stats"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishu221b&v=2" alt="Vishu221's WakaTime Stats"/>
 
